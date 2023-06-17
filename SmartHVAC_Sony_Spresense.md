@@ -6,7 +6,7 @@ Demo Video link: https://youtu.be/LLYOtY7svDQ
 Smart HVAC with Sony Spresense camera - PoC Demo setup
 
 This project is a modified project from the previous project with the same title using the Arduino Nicla Vision.
-Then all the references and steps can be seen directly taken from the project: (LINK)
+Then all the references and steps can be seen directly taken from Smart HVAC System with Nicla Vision project:(https://github.com/Jallson/Smart_HVAC/blob/main/HVAC_Smart_System.md))
 
 Edge Impulse project link: https://studio.edgeimpulse.com/public/215243/latest
 
